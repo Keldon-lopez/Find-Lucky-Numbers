@@ -9,4 +9,4 @@ const luckyNumbers = num => {
     }
     return arr;
 }
-luckyNumbers(7);
+console.log(luckyNumbers(7));
